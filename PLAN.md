@@ -80,7 +80,7 @@ pip freeze > requirements.txt
 
 2. Create the Django project and initial `accounts` app:
 ```bash
-django-admin startproject shop_api .
+
 python manage.py startapp accounts
 ```
 
